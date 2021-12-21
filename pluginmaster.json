@@ -1,0 +1,19 @@
+[
+    {
+        "Author": "attick, daemitus, alymphocyte, Edited by xZyph3r for private use",
+        "Name": "XIVComboExtended",
+        "Description": "XIVCombo and more ",
+        "InternalName": "XIVComboExtended",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/xZyph3r/XIVComboExtended",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "DownloadLinkInstall": "https://github.com/xZyph3r/XIVComboExtended/releases/download/untagged-10aaa91f2dd29ea71bd5/Debug.rar",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/xZyph3r/XIVComboExtended/releases/download/untagged-10aaa91f2dd29ea71bd5/Debug.rar",
+        "DownloadLinkUpdate": "https://github.com/xZyph3r/XIVComboExtended/releases/download/untagged-10aaa91f2dd29ea71bd5/Debug.rar",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    }
+]
