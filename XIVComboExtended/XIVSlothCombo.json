@@ -1,0 +1,14 @@
+{
+  "Author": "attick, daemitus, Aki,xZyph3r",
+  "Name": "XIVComboExtended",
+  "InternalName": "XIVComboExtended",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "XIVCombo for lazy gamers, Has Everything That Normal XIVCombo has +++ Extras",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/xZyph3r/XIVComboExtended",
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "https://github.com/xZyph3r/MyDalamudPlugins/blob/main/plugins/XIVComboExtended/images/icon.png",
+  "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras."
+}
