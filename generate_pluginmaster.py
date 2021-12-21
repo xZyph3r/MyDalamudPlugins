@@ -6,7 +6,7 @@ from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
 BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
-DOWNLOAD_URL = 'https://github.com/xZyph3r/MyDalamudPlugins/blob/54409b9b65054295b0ae22eee5f648a3b31408a5/plugins/XIVComboExtended/latest.zip'
+DOWNLOAD_URL = 'https://github.com/xZyph3r/MyDalamudPlugins/blob/{branch}/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
