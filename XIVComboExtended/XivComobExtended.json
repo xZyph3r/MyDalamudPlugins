@@ -1,0 +1,23 @@
+    {
+        "Author": "xZyph3r",
+        "Name": "XIVComboExtended",
+        "Punchline": "XIVComboExtended for more gameplay",
+        "Description": "XIVComboExtended for ez gameplay",
+        "InternalName": "XIVComboExtended",
+        "AssemblyVersion": "2.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "XIV",
+            "Combo",
+            "xZyph3r"
+        ],
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://ibb.co/FqhQHj1",
+        "DownloadLinkInstall": "null",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "null",
+        "DownloadLinkUpdate": "null",
+        "DownloadCount": 0,
+        "LastUpdated": "22.12.2021"
+    },
