@@ -4,7 +4,7 @@
         "Name": "XIVComboExtended",
         "Description": "XIVCombo and more ",
         "InternalName": "XIVComboExtended",
-        "AssemblyVersion": "2.0.1.5",
+        "AssemblyVersion": "2.0.1.6",
         "RepoUrl": "https://github.com/xZyph3r/XIVComboExtended",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
