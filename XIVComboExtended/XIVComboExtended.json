@@ -4,7 +4,7 @@
         "Punchline": "XIVComboExtended for more gameplay",
         "Description": "XIVComboExtended for ez gameplay",
         "InternalName": "XIVComboExtended",
-        "AssemblyVersion": "2.0.1.5",
+        "AssemblyVersion": "2.0.1.6",
         "ApplicableVersion": "any",
         "Tags": ["XIV","Combo","xZyph3r"],
         "DalamudApiLevel": 5,
